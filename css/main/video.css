@@ -1,0 +1,38 @@
+.video-wrap .video-area {
+  width: 1000px;
+  height: 472px;
+  margin: 31px 0 64px 0;
+  position: relative;
+}
+
+.video-wrap .btn-play {
+  position: absolute;
+  margin: -65px 0 0 -65px;
+  left: 50%;
+  top: 50%;
+  cursor: pointer;
+  z-index: 999;
+}
+
+.video-wrap .videolist {
+  margin-bottom: 56px;
+}
+.video-player_background{
+  background: url(../../images/images/video-players_03.png);
+  background-size: 100%;
+  width: 1000px;
+  height: 472px;
+  position: absolute;
+  top:0px;
+  left: 0px;
+}
+.video-palyer_btn{
+  width: 129px;
+  height: 129px;
+  background: url(../../images/btn/part/play_btn.png);
+  position:absolute;
+  left:50%;
+  top:50%;
+  margin-top: -64px;
+  margin-left: -64px;
+}

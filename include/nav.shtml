@@ -1,0 +1,71 @@
+
+<div class="navwrap">
+  <div class="nav">
+    <a href="http://poker.qq.com/index.shtml"><img id="logo" src="./images/logo/logo.png"></a><img id="logo_r" src="images/logo/logo_r.png">
+    <ul class="head_nav">
+      <li id="head_nav_li1">
+        <a class="head_nav_a" id="head_nav_a_1" href="./index.shtml" data-name="index">
+          <div class="nav_icon" id="nav_icon1"></div>
+          <p class="head_nav_p1">首页</p>
+          <p class="head_nav_p2">HOME</p>
+          <i></i>
+        </a>
+      </li>
+      <li class="head_nav_li2">
+        <a class="head_nav_a" id="head_nav_a_2" href="./news.shtml" data-name="news">
+          <div class="nav_icon" id="nav_icon2"></div>
+          <p class="head_nav_p1">新闻资讯</p>
+          <p class="head_nav_p2">NEWS</p>
+          <i></i>
+        </a>
+      </li>
+      <li class="head_nav_li3">
+        <a class="head_nav_a" id="head_nav_a_3" href="./events.shtml" data-name="events">
+          <div class="nav_icon" id="nav_icon3"></div>
+          <p class="head_nav_p1">赛事详情</p>
+          <p class="head_nav_p2">EVENTS</p>
+          <i></i>
+        </a>
+      </li>
+      <li class="head_nav_li4">
+        <a class="head_nav_a" id="head_nav_a_4" href="./match.shtml" data-name="match">
+          <div class="nav_icon" id="nav_icon4"></div>
+          <p class="head_nav_p1">赛事Q&A</p>
+          <p class="head_nav_p2">Q&A</p>
+          <i></i>
+        </a>
+      </li>
+      <li class="head_nav_li5">
+        <a class="head_nav_a" id="head_nav_a_5" href="./video.shtml" data-name="video">
+          <div class="nav_icon" id="nav_icon5"></div>
+          <p class="head_nav_p1">视频中心</p>
+          <p class="head_nav_p2">VIDEO</p>
+          <i></i>
+        </a>
+      </li>
+      <li class="head_nav_li6">
+        <a class="head_nav_a" id="head_nav_a_6" href="./review.shtml" data-name="review">
+          <div class="nav_icon" id="nav_icon6"></div>
+          <p class="head_nav_p1">精彩回顾</p>
+          <p class="head_nav_p2">REVIEW</p>
+          <i></i>
+        </a>
+      </li>
+      <li class="head_nav_li7">
+        <a class="head_nav_a" id="head_nav_a_7" href="./contact.shtml" data-name="contect">
+          <div class="nav_icon" id="nav_icon7"></div>
+          <p class="head_nav_p1">联系我们</p>
+          <p class="head_nav_p2">CONTACT</p>
+        </a>
+      </li>
+    </ul>
+    <div class="head_nav_li6tabwrap">
+      <ul class="head_nav_li6tab">
+        <li><a href="#">TPT2016</a></li>
+        <li><a href="#">TPT2015</a></li>
+        <li><a href="#">TPT2014</a></li>
+      </ul>
+      <div class="head_nav_li6tabback"></div>
+    </div>
+  </div>
+</div>
